@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46c612f0-943c-4001-93c5-a5f478546643" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SN88m6kjAZp2avrE8ZRo4GUZ0M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src\components\Profile" />
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src\components\users" />
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src\components\Dialogs" />
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src\components\Profile\MyPosts" />
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src\components\Dialogs\DialogItem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src\components\Dialogs\Message" />
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src" />
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src\redux" />
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src\components\Profile\ProfileInfo" />
+      <recent name="C:\Users\dimak\WebstormProjects\untitled1\src\components\Dialogs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c612f0-943c-4001-93c5-a5f478546643" name="Default Changelist" comment="" />
+      <created>1571392535943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571392535943</updated>
+      <workItem from="1571392538903" duration="272000" />
+      <workItem from="1571480898406" duration="32000" />
+      <workItem from="1571653948377" duration="771000" />
+      <workItem from="1571655465613" duration="11352000" />
+      <workItem from="1571688072613" duration="128000" />
+      <workItem from="1571735515088" duration="15071000" />
+      <workItem from="1571825691960" duration="2401000" />
+      <workItem from="1572864326766" duration="225000" />
+      <workItem from="1573388919901" duration="23047000" />
+      <workItem from="1573472263939" duration="7805000" />
+      <workItem from="1573485066274" duration="3067000" />
+      <workItem from="1573564764269" duration="1408000" />
+      <workItem from="1573659058521" duration="6088000" />
+      <workItem from="1573722027295" duration="23483000" />
+      <workItem from="1573815679053" duration="12928000" />
+      <workItem from="1573841949316" duration="1246000" />
+      <workItem from="1573900870247" duration="11924000" />
+      <workItem from="1573916176937" duration="241000" />
+      <workItem from="1573932693332" duration="9876000" />
+      <workItem from="1573988220567" duration="15020000" />
+      <workItem from="1574018292103" duration="3377000" />
+      <workItem from="1574074647051" duration="27932000" />
+      <workItem from="1574160746908" duration="23292000" />
+      <workItem from="1574256851267" duration="5151000" />
+      <workItem from="1574349226407" duration="4444000" />
+      <workItem from="1574363585828" duration="248000" />
+      <workItem from="1574412623915" duration="15920000" />
+      <workItem from="1573559074100" duration="21000" />
+      <workItem from="1574866386480" duration="187000" />
+      <workItem from="1574971336498" duration="269000" />
+      <workItem from="1575031986085" duration="13144000" />
+      <workItem from="1575105176576" duration="2766000" />
+      <workItem from="1575119582842" duration="4083000" />
+      <workItem from="1575131652244" duration="4936000" />
+      <workItem from="1575197269467" duration="603000" />
+      <workItem from="1575295796715" duration="5382000" />
+      <workItem from="1575405010248" duration="1133000" />
+      <workItem from="1575410391199" duration="14506000" />
+      <workItem from="1575491520028" duration="5072000" />
+      <workItem from="1575641484394" duration="9313000" />
+      <workItem from="1575658767231" duration="5776000" />
+      <workItem from="1575802368621" duration="7063000" />
+      <workItem from="1575834376881" duration="1243000" />
+      <workItem from="1576623143456" duration="627000" />
+      <workItem from="1576668801080" duration="18016000" />
+      <workItem from="1576757687956" duration="2374000" />
+      <workItem from="1576934729552" duration="1941000" />
+      <workItem from="1577101293599" duration="10467000" />
+      <workItem from="1577115399356" duration="28613000" />
+      <workItem from="1581337280242" duration="642000" />
+      <workItem from="1581527346668" duration="80000" />
+    </task>
+    <task id="LOCAL-00002" summary="sad">
+      <created>1573411728739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573411728739</updated>
+    </task>
+    <task id="LOCAL-00003" summary="OOP">
+      <created>1573488802282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573488802282</updated>
+    </task>
+    <task id="LOCAL-00004" summary="выфвфыв40">
+      <created>1573740684443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573740684443</updated>
+    </task>
+    <task id="LOCAL-00005" summary="выфвфыв40sda58">
+      <created>1574191607877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574191607877</updated>
+    </task>
+    <task id="LOCAL-00006" summary="before install reselect">
+      <created>1577190974533</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577190974533</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sad" />
+    <MESSAGE value="OOP" />
+    <MESSAGE value="выфвфыв40" />
+    <MESSAGE value="выфвфыв40sda58" />
+    <MESSAGE value="before install reselect" />
+    <option name="LAST_COMMIT_MESSAGE" value="before install reselect" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1418" height="237" key="GridCell.Tab.0.bottom" timestamp="1581346202046">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1418" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581346202046" />
+    <state width="1418" height="237" key="GridCell.Tab.0.center" timestamp="1581346202045">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1418" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581346202045" />
+    <state width="1418" height="237" key="GridCell.Tab.0.left" timestamp="1581346202045">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1418" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581346202045" />
+    <state width="1418" height="237" key="GridCell.Tab.0.right" timestamp="1581346202046">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1418" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581346202046" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1581337812819">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581337812819" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@types/react/index.d.ts</url>
+          <line>462</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

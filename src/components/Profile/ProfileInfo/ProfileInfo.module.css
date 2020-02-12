@@ -1,0 +1,11 @@
+.content__wrapper{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.container{
+    padding-left: 30px;
+}
+.paint{
+    border-radius: 50%;
+}
